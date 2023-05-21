@@ -1,0 +1,12 @@
+{
+  "name": "would-you-api",
+  "version": "1.0.0",
+  "description": "Backend API for the Would You Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
