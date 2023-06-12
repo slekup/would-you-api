@@ -1,3 +1,7 @@
-node_modules
+.github/
+.husky/
+.vscode/
+dist/
+node_modules/
+package-lock.json
 .env
-tmp/
