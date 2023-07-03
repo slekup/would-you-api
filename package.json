@@ -26,7 +26,7 @@
     "express-rate-limit": "^6.7.0",
     "express-session": "^1.17.3",
     "express-validator": "^7.0.1",
-    "fast-glob": "^3.2.12",
+    "fast-glob": "^3.3.0",
     "helmet": "^7.0.0",
     "hpp": "^0.2.3",
     "joi": "^17.9.2",
