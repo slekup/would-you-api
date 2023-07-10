@@ -52,7 +52,7 @@
     "@types/express-session": "^1.17.7",
     "@types/hpp": "^0.2.2",
     "@types/multer": "^1.4.7",
-    "@types/node": "^20.4.0",
+    "@types/node": "^20.4.1",
     "@types/passport": "^1.0.12",
     "@types/passport-local": "^1.0.35",
     "@types/uuid": "^9.0.2",
